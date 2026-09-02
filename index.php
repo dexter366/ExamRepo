@@ -1,0 +1,24 @@
+~<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+<h1>LOGIN FORM</h1>
+
+
+
+
+<input type="text">  Username
+
+
+<input type="text"> Password
+
+<input type="button" > Submit
+
+
+</body>
+</html>
